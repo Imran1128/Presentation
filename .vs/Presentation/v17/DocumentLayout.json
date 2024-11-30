@@ -1,0 +1,298 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Imran\\source\\repos\\Presentation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Imran\\source\\repos\\Presentation\\Presentation\\Migrations\\20241130152743_sdfsdfsdf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Presentation\\Migrations\\20241130152743_sdfsdfsdf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04815286-7EC3-4CAF-888A-713559DFCAF6}|Presentation\\Presentation.csproj|c:\\users\\imran\\source\\repos\\presentation\\presentation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{04815286-7EC3-4CAF-888A-713559DFCAF6}|Presentation\\Presentation.csproj|solutionrelative:presentation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04815286-7EC3-4CAF-888A-713559DFCAF6}|Presentation\\Presentation.csproj|c:\\users\\imran\\source\\repos\\presentation\\presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04815286-7EC3-4CAF-888A-713559DFCAF6}|Presentation\\Presentation.csproj|solutionrelative:presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Books\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Books\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Imran\\Desktop\\User Registration\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04815286-7EC3-4CAF-888A-713559DFCAF6}|Presentation\\Presentation.csproj|c:\\users\\imran\\source\\repos\\presentation\\presentation\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{04815286-7EC3-4CAF-888A-713559DFCAF6}|Presentation\\Presentation.csproj|solutionrelative:presentation\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04815286-7EC3-4CAF-888A-713559DFCAF6}|Presentation\\Presentation.csproj|c:\\users\\imran\\source\\repos\\presentation\\presentation\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04815286-7EC3-4CAF-888A-713559DFCAF6}|Presentation\\Presentation.csproj|solutionrelative:presentation\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04815286-7EC3-4CAF-888A-713559DFCAF6}|Presentation\\Presentation.csproj|c:\\users\\imran\\source\\repos\\presentation\\presentation\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{04815286-7EC3-4CAF-888A-713559DFCAF6}|Presentation\\Presentation.csproj|solutionrelative:presentation\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04815286-7EC3-4CAF-888A-713559DFCAF6}|Presentation\\Presentation.csproj|c:\\users\\imran\\source\\repos\\presentation\\presentation\\views\\home\\editpresentation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{04815286-7EC3-4CAF-888A-713559DFCAF6}|Presentation\\Presentation.csproj|solutionrelative:presentation\\views\\home\\editpresentation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04815286-7EC3-4CAF-888A-713559DFCAF6}|Presentation\\Presentation.csproj|c:\\users\\imran\\source\\repos\\presentation\\presentation\\views\\home\\createpresentation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{04815286-7EC3-4CAF-888A-713559DFCAF6}|Presentation\\Presentation.csproj|solutionrelative:presentation\\views\\home\\createpresentation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04815286-7EC3-4CAF-888A-713559DFCAF6}|Presentation\\Presentation.csproj|c:\\users\\imran\\source\\repos\\presentation\\presentation\\viewmodels\\createpresentationviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04815286-7EC3-4CAF-888A-713559DFCAF6}|Presentation\\Presentation.csproj|solutionrelative:presentation\\viewmodels\\createpresentationviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04815286-7EC3-4CAF-888A-713559DFCAF6}|Presentation\\Presentation.csproj|c:\\users\\imran\\source\\repos\\presentation\\presentation\\repository\\presentationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04815286-7EC3-4CAF-888A-713559DFCAF6}|Presentation\\Presentation.csproj|solutionrelative:presentation\\repository\\presentationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04815286-7EC3-4CAF-888A-713559DFCAF6}|Presentation\\Presentation.csproj|c:\\users\\imran\\source\\repos\\presentation\\presentation\\viewmodels\\editviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04815286-7EC3-4CAF-888A-713559DFCAF6}|Presentation\\Presentation.csproj|solutionrelative:presentation\\viewmodels\\editviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04815286-7EC3-4CAF-888A-713559DFCAF6}|Presentation\\Presentation.csproj|c:\\users\\imran\\source\\repos\\presentation\\presentation\\views\\home\\presentation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{04815286-7EC3-4CAF-888A-713559DFCAF6}|Presentation\\Presentation.csproj|solutionrelative:presentation\\views\\home\\presentation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04815286-7EC3-4CAF-888A-713559DFCAF6}|Presentation\\Presentation.csproj|c:\\users\\imran\\source\\repos\\presentation\\presentation\\models\\presentationmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04815286-7EC3-4CAF-888A-713559DFCAF6}|Presentation\\Presentation.csproj|solutionrelative:presentation\\models\\presentationmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04815286-7EC3-4CAF-888A-713559DFCAF6}|Presentation\\Presentation.csproj|c:\\users\\imran\\source\\repos\\presentation\\presentation\\migrations\\20241130094544_df.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04815286-7EC3-4CAF-888A-713559DFCAF6}|Presentation\\Presentation.csproj|solutionrelative:presentation\\migrations\\20241130094544_df.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20241130152743_sdfsdfsdf.cs",
+              "DocumentMoniker": "C:\\Users\\Imran\\source\\repos\\Presentation\\Presentation\\Migrations\\20241130152743_sdfsdfsdf.cs",
+              "RelativeDocumentMoniker": "Presentation\\Migrations\\20241130152743_sdfsdfsdf.cs",
+              "ToolTip": "C:\\Users\\Imran\\source\\repos\\Presentation\\Presentation\\Migrations\\20241130152743_sdfsdfsdf.cs",
+              "RelativeToolTip": "Presentation\\Migrations\\20241130152743_sdfsdfsdf.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T15:27:43.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Books\\appsettings.json",
+              "ToolTip": "D:\\Books\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-30T09:52:46.947Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "web.config",
+              "DocumentMoniker": "D:\\Books\\web.config",
+              "ToolTip": "D:\\Books\\web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-11-30T09:52:09.501Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "web.config",
+              "DocumentMoniker": "C:\\Users\\Imran\\Desktop\\User Registration\\web.config",
+              "RelativeDocumentMoniker": "..\\..\\..\\Desktop\\User Registration\\web.config",
+              "ToolTip": "C:\\Users\\Imran\\Desktop\\User Registration\\web.config",
+              "RelativeToolTip": "..\\..\\..\\Desktop\\User Registration\\web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-11-30T09:50:20.551Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "20241130094544_df.cs",
+              "DocumentMoniker": "C:\\Users\\Imran\\source\\repos\\Presentation\\Presentation\\Migrations\\20241130094544_df.cs",
+              "RelativeDocumentMoniker": "Presentation\\Migrations\\20241130094544_df.cs",
+              "ToolTip": "C:\\Users\\Imran\\source\\repos\\Presentation\\Presentation\\Migrations\\20241130094544_df.cs",
+              "RelativeToolTip": "Presentation\\Migrations\\20241130094544_df.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T09:45:44.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Imran\\source\\repos\\Presentation\\Presentation\\Program.cs",
+              "RelativeDocumentMoniker": "Presentation\\Program.cs",
+              "ToolTip": "C:\\Users\\Imran\\source\\repos\\Presentation\\Presentation\\Program.cs",
+              "RelativeToolTip": "Presentation\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAACQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T09:45:14.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Imran\\source\\repos\\Presentation\\Presentation\\appsettings.json",
+              "RelativeDocumentMoniker": "Presentation\\appsettings.json",
+              "ToolTip": "C:\\Users\\Imran\\source\\repos\\Presentation\\Presentation\\appsettings.json",
+              "RelativeToolTip": "Presentation\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-30T09:41:14.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Imran\\source\\repos\\Presentation\\Presentation\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Presentation\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Imran\\source\\repos\\Presentation\\Presentation\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Presentation\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAAAEQAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-30T09:34:13.309Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Presentation.cshtml",
+              "DocumentMoniker": "C:\\Users\\Imran\\source\\repos\\Presentation\\Presentation\\Views\\Home\\Presentation.cshtml",
+              "RelativeDocumentMoniker": "Presentation\\Views\\Home\\Presentation.cshtml",
+              "ToolTip": "C:\\Users\\Imran\\source\\repos\\Presentation\\Presentation\\Views\\Home\\Presentation.cshtml",
+              "RelativeToolTip": "Presentation\\Views\\Home\\Presentation.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-30T08:41:55.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CreatePresentation.cshtml",
+              "DocumentMoniker": "C:\\Users\\Imran\\source\\repos\\Presentation\\Presentation\\Views\\Home\\CreatePresentation.cshtml",
+              "RelativeDocumentMoniker": "Presentation\\Views\\Home\\CreatePresentation.cshtml",
+              "ToolTip": "C:\\Users\\Imran\\source\\repos\\Presentation\\Presentation\\Views\\Home\\CreatePresentation.cshtml",
+              "RelativeToolTip": "Presentation\\Views\\Home\\CreatePresentation.cshtml",
+              "ViewState": "AgIAABEAAAAAAAAAAADwv2MAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-30T08:39:01.384Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EditPresentation.cshtml",
+              "DocumentMoniker": "C:\\Users\\Imran\\source\\repos\\Presentation\\Presentation\\Views\\Home\\EditPresentation.cshtml",
+              "RelativeDocumentMoniker": "Presentation\\Views\\Home\\EditPresentation.cshtml",
+              "ToolTip": "C:\\Users\\Imran\\source\\repos\\Presentation\\Presentation\\Views\\Home\\EditPresentation.cshtml",
+              "RelativeToolTip": "Presentation\\Views\\Home\\EditPresentation.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-30T08:38:50.795Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EditViewmodel.cs",
+              "DocumentMoniker": "C:\\Users\\Imran\\source\\repos\\Presentation\\Presentation\\ViewModels\\EditViewmodel.cs",
+              "RelativeDocumentMoniker": "Presentation\\ViewModels\\EditViewmodel.cs",
+              "ToolTip": "C:\\Users\\Imran\\source\\repos\\Presentation\\Presentation\\ViewModels\\EditViewmodel.cs",
+              "RelativeToolTip": "Presentation\\ViewModels\\EditViewmodel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T08:35:00.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "PresentationModel.cs",
+              "DocumentMoniker": "C:\\Users\\Imran\\source\\repos\\Presentation\\Presentation\\Models\\PresentationModel.cs",
+              "RelativeDocumentMoniker": "Presentation\\Models\\PresentationModel.cs",
+              "ToolTip": "C:\\Users\\Imran\\source\\repos\\Presentation\\Presentation\\Models\\PresentationModel.cs",
+              "RelativeToolTip": "Presentation\\Models\\PresentationModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T08:34:52.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PresentationRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Imran\\source\\repos\\Presentation\\Presentation\\Repository\\PresentationRepository.cs",
+              "RelativeDocumentMoniker": "Presentation\\Repository\\PresentationRepository.cs",
+              "ToolTip": "C:\\Users\\Imran\\source\\repos\\Presentation\\Presentation\\Repository\\PresentationRepository.cs",
+              "RelativeToolTip": "Presentation\\Repository\\PresentationRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T08:34:47.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Imran\\source\\repos\\Presentation\\Presentation\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Presentation\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Imran\\source\\repos\\Presentation\\Presentation\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Presentation\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAIwDMAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T07:43:53.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CreatePresentationViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Imran\\source\\repos\\Presentation\\Presentation\\ViewModels\\CreatePresentationViewModel.cs",
+              "RelativeDocumentMoniker": "Presentation\\ViewModels\\CreatePresentationViewModel.cs",
+              "ToolTip": "C:\\Users\\Imran\\source\\repos\\Presentation\\Presentation\\ViewModels\\CreatePresentationViewModel.cs",
+              "RelativeToolTip": "Presentation\\ViewModels\\CreatePresentationViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T09:28:25.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Imran\\source\\repos\\Presentation\\Presentation\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Presentation\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Imran\\source\\repos\\Presentation\\Presentation\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Presentation\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-30T07:43:11.984Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+﻿.presenter {
+    display: flex; /* Enable flexbox */
+    justify-content: center; /* Horizontally center content */
+    margin-right: 100px /* Ensure it spans the full width */
+    align-items: center;
+}
+
+canvas {
+    border: 2px solid black; /* Add a solid black border */
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2); /* Optional: Add a shadow */
+    border-radius: 5px; /* Optional: Add rounded corners */
+    position: sticky;
+}
+
+
+
+
+
+
+.toolbar {
+    background-color: #ffffff;
+    padding: 20px 0;
+    border-bottom: 2px solid #ddd;
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+}
+
+.tool-btn {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 80px;
+    height: 80px;
+    font-size: 14px;
+    cursor: pointer;
+    border-radius: 8px;
+    transition: all 0.3s ease;
+    gap: 5px;
+}
+
+    .tool-btn i {
+        font-size: 24px;
+        margin-bottom: 5px;
+    }
+
+    .tool-btn:hover {
+        background-color: #f0f8ff;
+        box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    }
+
+.thumbnail {
+    margin-top: 20px;
+    text-align: center;
+}
+
+    .thumbnail canvas {
+        border: 1px solid #ddd;
+        background: #fff;
+    }
+input[type="color"].color-picker {
+    width: 30px; /* Adjust size of color picker */
+    height: 30px; /* Adjust size of color picker */
+    padding: 0; /* Remove padding */
+    border: none; /* Optional: Remove border around the input */
+    background-color: transparent; /* Transparent background to match label style */
+}
+.dropdown-menu.show {
+    display: block;
+}
+
